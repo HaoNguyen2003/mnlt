@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\.Net\ManagerLapTop\Lab05\bin\Debug\Lab05.exe.config
+C:\Users\PC\Desktop\.Net\ManagerLapTop\Lab05\bin\Debug\Lab05.exe
+C:\Users\PC\Desktop\.Net\ManagerLapTop\Lab05\bin\Debug\Lab05.pdb
+C:\Users\PC\Desktop\.Net\ManagerLapTop\Lab05\obj\Debug\Lab05.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\.Net\ManagerLapTop\Lab05\obj\Debug\Lab05.Form1.resources
+C:\Users\PC\Desktop\.Net\ManagerLapTop\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+C:\Users\PC\Desktop\.Net\ManagerLapTop\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\.Net\ManagerLapTop\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\.Net\ManagerLapTop\Lab05\obj\Debug\Lab05.exe
+C:\Users\PC\Desktop\.Net\ManagerLapTop\Lab05\obj\Debug\Lab05.pdb
+C:\Users\PC\Desktop\.Net\ManagerLapTop\Lab05\obj\Debug\Lab05.csproj.ResolveComReference.cache
